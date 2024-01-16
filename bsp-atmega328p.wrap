@@ -1,0 +1,7 @@
+[wrap-git]
+url = https://github.com/calebrjc/bsp-atmega328p.git
+revision = trunk
+depth = 1
+
+[provide]
+bsp-atmega328p = bsp_atmega328p_dep
